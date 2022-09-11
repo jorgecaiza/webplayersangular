@@ -1,0 +1,25 @@
+div {
+    text-align: center;
+}
+
+img {
+    vertical-align: middle;
+    border-radius: 50%;
+}
+
+span {
+    vertical-align: middle;
+
+}
+
+h4 {
+    display: inline-block;
+    text-align: justify;
+    font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+    display: inline-block;
+
+    font-family: 'Roboto Slab', serif;
+}

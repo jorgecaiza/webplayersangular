@@ -1,0 +1,49 @@
+header div.fondo_titulo {
+    background-image: url('https://img.freepik.com/vector-gratis/fondo-naranja-abstracto-lineas-efecto-semitono_1017-32107.jpg?w=1060');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 150px;
+    line-height: 150px;
+    text-align: center;
+}
+
+header div.fondo_titulo span {
+    font-weight: bold;
+    color: white;
+    vertical-align: middle;
+    line-height: normal;
+    font-size: 36px;
+    background-color: #ff6709;
+}
+
+header.titulo_principal h1 {
+    margin: 0px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    color: #fffbe3;
+    background-color: #ff6709;
+
+}
+
+.color1 {
+    color: #ff6709;
+}
+
+.color2 {
+    color: #ffa21c;
+}
+
+.color3 {
+    color: #ffe75c;
+}
+
+.color4 {
+    color: #fffba7;
+}
+
+.color5 {
+    color: #fffbe3;
+}
